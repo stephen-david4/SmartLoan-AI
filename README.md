@@ -1,4 +1,4 @@
-# 🏦 SmartLoan AI — Credit Risk Prediction & Loan Approval System
+# SmartLoan AI — Credit Risk Prediction & Loan Approval System
 
 An AI-powered loan approval system that predicts whether a customer is likely to default on a loan using Machine Learning.
 
@@ -13,8 +13,7 @@ Add your Streamlit link here:
 `[https://your-app.streamlit.app](https://smartloan-ai-2jftvhogitmxjjbyauduqz.streamlit.app/)`
 
 ---
-
-## 📊 Dataset
+## Dataset
 
 Dataset used:
 
@@ -60,7 +59,7 @@ https://www.kaggle.com/datasets/laotse/credit-risk-dataset
 
 ---
 
-## 🧠 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 ### 1. Data Cleaning
 
@@ -115,7 +114,7 @@ The model with the highest **AUC-ROC** is automatically selected as the final mo
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Model               | AUC-ROC | Accuracy | F1 Score |
 | ------------------- | ------: | -------: | -------: |
@@ -133,7 +132,7 @@ The model with the highest **AUC-ROC** is automatically selected as the final mo
 
 ---
 
-## 🔍 Explainable AI with SHAP
+##  Explainable AI with SHAP
 
 This project uses **SHAP (SHapley Additive Explanations)** to explain:
 
@@ -151,7 +150,7 @@ Negative SHAP values:
 
 ---
 
-## 🎯 Features
+##  Features
 
 ✅ Loan approval prediction
 
@@ -169,7 +168,7 @@ Negative SHAP values:
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 ### Home Page
 
@@ -204,7 +203,7 @@ Add screenshot here:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 SmartLoan-AI/
@@ -231,7 +230,7 @@ SmartLoan-AI/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -261,7 +260,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 ** David**
 
