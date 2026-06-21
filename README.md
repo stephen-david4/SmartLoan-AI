@@ -44,7 +44,7 @@ https://www.kaggle.com/datasets/laotse/credit-risk-dataset
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -152,47 +152,38 @@ Negative SHAP values:
 
 ##  Features
 
-✅ Loan approval prediction
+ Loan approval prediction
 
-✅ Risk level classification
+Risk level classification
 
-✅ Approval probability score
+ Approval probability score
 
-✅ SHAP explainability
+ SHAP explainability
 
-✅ Improvement suggestions for rejected applicants
+ Improvement suggestions for rejected applicants
 
-✅ Comparison of 3 ML models
+ Comparison of 3 ML models
 
-✅ Interactive Streamlit dashboard
+ Interactive Streamlit dashboard
 
 ---
-
-##  Screenshots
+## 📷 Screenshots
 
 ### Home Page
 
-Add screenshot here: 
-
-
-```text
-<img width="887" height="852" alt="image" src="https://github.com/user-attachments/assets/cf6c2aab-b927-44e6-a1da-a282aa60648e" />
-
-```
+<img width="887" height="852" alt="Home Page" src="https://github.com/user-attachments/assets/cf6c2aab-b927-44e6-a1da-a282aa60648e" />
 
 ### Prediction Result
 
-```text
-<img width="955" height="367" alt="image" src="https://github.com/user-attachments/assets/88a9cfee-226c-40ac-9493-5cc5ced2b123" />
-
-```
+<img width="955" height="367" alt="Prediction Result" src="https://github.com/user-attachments/assets/88a9cfee-226c-40ac-9493-5cc5ced2b123" />
 
 ### SHAP Explanation
 
-```text
-<img width="917" height="775" alt="image" src="https://github.com/user-attachments/assets/303742e3-7d6b-45d6-a87d-a3986067c1d0" />
+<img width="917" height="775" alt="SHAP Explanation" src="https://github.com/user-attachments/assets/303742e3-7d6b-45d6-a87d-a3986067c1d0" />
 
-```
+### Model Comparison
+
+<img width="780" height="686" alt="Model Comparison" src="https://github.com/user-attachments/assets/fdeb8ed9-944b-45b2-adfb-2b039a5aaeda" />
 
 ### Model Comparison
 
