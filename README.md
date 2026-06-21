@@ -10,7 +10,7 @@ The project compares **Logistic Regression**, **Random Forest**, and **XGBoost**
 
 Add your Streamlit link here:
 
-`[https://your-app.streamlit.app](https://smartloan-ai-2jftvhogitmxjjbyauduqz.streamlit.app/)`
+`https://smartloan-ai-2jftvhogitmxjjbyauduqz.streamlit.app/`
 
 ---
 ## Dataset
