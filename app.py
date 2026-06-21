@@ -144,7 +144,7 @@ st.divider()
 # ════════════════════════════════════
 if st.session_state.page == 1:
 
-    st.subheader("📋 Enter Your Details")
+    st.subheader(" Enter Your Details")
 
     col1, col2 = st.columns(2)
     with col1:
