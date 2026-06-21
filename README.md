@@ -171,7 +171,7 @@ Risk level classification
 
 ### Home Page
 
-<img width="887" height="852" alt="Home Page" src="https://github.com/user-attachments/assets/cf6c2aab-b927-44e6-a1da-a282aa60648e" />
+<img width="687" height="600" alt="Home Page" src="https://github.com/user-attachments/assets/cf6c2aab-b927-44e6-a1da-a282aa60648e" />
 
 ### Prediction Result
 
@@ -179,18 +179,11 @@ Risk level classification
 
 ### SHAP Explanation
 
-<img width="917" height="775" alt="SHAP Explanation" src="https://github.com/user-attachments/assets/303742e3-7d6b-45d6-a87d-a3986067c1d0" />
+<img width="917" height="675" alt="SHAP Explanation" src="https://github.com/user-attachments/assets/303742e3-7d6b-45d6-a87d-a3986067c1d0" />
 
 ### Model Comparison
 
 <img width="780" height="686" alt="Model Comparison" src="https://github.com/user-attachments/assets/fdeb8ed9-944b-45b2-adfb-2b039a5aaeda" />
-
-### Model Comparison
-
-```text
-<img width="780" height="686" alt="image" src="https://github.com/user-attachments/assets/fdeb8ed9-944b-45b2-adfb-2b039a5aaeda" />
-
-```
 
 ---
 
